@@ -6,8 +6,7 @@
   ◈ DIAGNOSE → DECIDE → LEAD ◈
 ```
 
-# Design leadership & Org Decisions
-### A Claude Code Skill
+# Design Org 
 
 **Org design, people management, and executive decision-making for design leaders.**
 Built for VP of Design, Head of Design, CPO, CTO, and Design Directors navigating the hard calls that don't have easy answers.
