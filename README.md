@@ -11,14 +11,7 @@
 **Org design, people management, and executive decision-making for design leaders.**
 Built for VP of Design, Head of Design, CPO, CTO, and Design Directors navigating the hard calls that don't have easy answers.
 
-<br/>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/design-leadership-skill)
-[![Domains](https://img.shields.io/badge/domains-9-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/design-leadership-skill/blob/main/SKILL.md)
-[![Frameworks](https://img.shields.io/badge/frameworks-10+-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://github.com/65ping/design-leadership-skill/blob/main/SKILL.md)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-0a0a0a?style=flat-square&labelColor=f5f0e8)](https://claude.ai/claude-code)
-
-<br/>
 
 </div>
 
