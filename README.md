@@ -191,10 +191,3 @@ design-leadership/
 
 design leadership, VP of design, head of design, design org, org design, design management, design culture, design team structure, centralized vs embedded design, design maturity, managing up, design strategy, design vision, performance management for designers, design critique, design OKRs, design career ladder, federated design org, design systems strategy, design executive, CPO, design director, growing a design team, IC vs manager track, design org scaling, design leadership frameworks, Claude Code skill
 
----
-
-<div align="center">
-
-Built as a [Claude Code](https://claude.ai/claude-code) skill · v1.0.0
-
-</div>
